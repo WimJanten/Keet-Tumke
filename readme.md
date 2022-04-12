@@ -1,4 +1,4 @@
-<h2 align="center">Keep Tumke</h2>
+<h2 align="center">Keet Tumke</h2>
 
 - tba
 ## Authors
