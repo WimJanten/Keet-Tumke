@@ -14,7 +14,7 @@
 
 #### Get all items
 
-```http
+```
   POST /pils
 ```
 
