@@ -2,7 +2,7 @@
 # Keet Tumke
 
 - Added V1.0 of the API
-- Addes V0.1 of the Webapp
+- Added V0.1 of the Webapp
 ## Authors
 
 - [@chinouvm](https://github.com/chinouvm)
