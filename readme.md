@@ -1,8 +1,4 @@
-
-![Logo](https://cdn.discordapp.com/attachments/930026489540390944/958284382454566922/Ontwerp-zonder-titel-2020-07-15T103919.022.png)
-
-
-# Keet Tumke
+<h2 align="center">Keep Tumke</h2>
 
 - tba
 ## Authors
