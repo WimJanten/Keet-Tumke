@@ -1,22 +1,24 @@
-import firebase_admin
-from firebase_admin import credentials
-from firebase_admin import firestore
+from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
 
-cred = credentials.Certificate("./key.json")
+from routers import pils
 
-firebase_admin.initialize_app(cred)
 
-db = firestore.client()
+app = FastAPI()
 
-user_key = "12 32 43 54"
+origins = ["*"]
 
-doc_ref = db.collection("drinkers").document(user_key)
-doc_ref.set(
-    {
-        "name": "Lake",
-        "pils": 1000,
-    }
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
-# TODO user_key = value of post request esp
-# TODO pils = pils(database) + 1
+app.include_router(pils.router)
+
+
+@app.get("/")
+async def root():
+    return {"Heerlijk pilsje"}
