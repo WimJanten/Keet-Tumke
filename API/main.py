@@ -3,6 +3,7 @@ from fastapi.middleware.cors import CORSMiddleware
 
 from routers import pils
 
+
 app = FastAPI()
 
 origins = ["*"]
@@ -20,4 +21,4 @@ app.include_router(pils.router)
 
 @app.get("/")
 async def root():
-    return {"Pilsje"}
+    return {"Heerlijk pilsje"}

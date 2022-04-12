@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tumke-pilscounter",
+  "private_key_id": "07c557b7767675a1ebb4a1d5fec24d6a3ba30117",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEugIBADANBgkqhkiG9w0BAQEFAASCBKQwggSgAgEAAoIBAQCfiRQzwDCdUi/y\nqJPiIzHhn/p5u1f3gusFjSrDw5ZbYc8IEylMu3opqbZ8D+hVk9AK1SBQzUCRnjUZ\nYmh7alPT/BYRTAHw4ekDwmSBz8aGvy7ahsQC6fyeui3yrdls094tBxcVAIOZ1vfg\nwzinUlijpUodVClTwiDxhH0JnFba8L/bwuinJYQ51HQIAgfNYK9b4t3I78qFqMbL\nuM9Ekst8p8TxCdpHnW9QrMJlq7jjjjzG+HAHjpK/kQCYWL+7SKUPJzKHKkJ+nQpD\nSSESy7Ue+DrX0m6gk62SLedFdrawB17B22KnRS38A5DNkmo9cNNT1bn6wfaam7Cu\nSl9fSR9JAgMBAAECgf9gKCOGnqPKZo3ZTt4wPb9tOJnb1O2WPqLC8G8Q0FQW3x3n\nA+l0vDfx+kl+rsrDiSj0scr20CvNxGjQ5xzkVapon7bYhLzwxspnzPF6T7JGpz8k\nM+Tz+4aVKE9IvuAHJCezWKhD0hrsB5l/HVPdNeCseAZoYB1myo8pU3pHpwYxTChV\nLEzG8jI6QzHvN8bVsY1QNU5qzCLGvTI4VLVDY0gC3UTCaYyyOMPNYuYlN/gQUpnf\nazWj0KRDcHR4mw7W1vfr+Jvv5PSMbZkinyfom5uMYh4f/PREpyQ6egYJxf4ACNHr\nglsuJ2znPHxIJv9wU2FJEKMhPZIPOh9hnxapzpECgYEAzWFV6lFyRHt1F2ISs/4a\nWyvax8xCVkZNTbrcHmnvzde/dd2gm1Z0YSl5UVc07VeAROSV8ce9OxyFTqhtFQaU\n8xkosP4p+zJzILacOCZ2aX5Bc13FDBO2WzEPWxkZZpnwytcfC1odwMTQDAej/Goh\nqd3gfjTDcfHIqHbd3VrV9HUCgYEAxtsfw/1Hu2hgzK4VvvGYZuft1OeJdKzD4agV\nnnpUh6BZJIss4srXRlKQ92FiKBFWZ7Ll0yU7RupzyRz+xzEVcOR2zIbJWOSGI2cX\nSdRwPmVNNhe14afDGJaGIe/Qihcp02r6pgilAzLTRBamAR+mg9Y/HxsM97fzu2N8\nFFMe1QUCgYBvOACwrX51u22DRibetgJL0QnfHKvn0JZYO5KsHa4xCF60U1qABGdt\nnmoGNHWC+dmKdUcF8aZ19lHycJ7xvei3ZK52eoz9bSqPUpRyi9Gf+zEyalsk2R/t\nbjnkmUj6GO8eyTQUj66BD5OikBirvkWQmYjSj3wvnkGNiSFIl8I5aQKBgAueP9Pe\nl3NOnOE4hpK6YNIaWN3ojTJg6azkeibhNNEbwDmPXBcADOXR6yBY8zguEyNJ432b\nnkP9bLhiVkxjBMKsxngao+bqqx+kZUrt+4TZvFIdvoWpnI9yM/IFpeR7h/kPNge/\nV4zBSnCe9iH4rGzldpilpvNOLxJStKwnUxTVAoGALkBHHAZo19XAb5J8oTTgRL4q\niaVFujmWmOElKDOc11ZHLgFDAtDxpl+lIexikXb+plnUGSno8ANzbvA0EPzDrYy4\n7Suqwlr+elZ9FLn2zj8HhkY62cVy9WO6ZDxudVjFIl76F2Mw2+0XTZHc/9TvEQQN\nKrmSP3MXVL9EsiG5K2w=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-gkew3@tumke-pilscounter.iam.gserviceaccount.com",
+  "client_id": "112435986956898318047",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-gkew3%40tumke-pilscounter.iam.gserviceaccount.com"
+}
