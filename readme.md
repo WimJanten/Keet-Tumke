@@ -1,7 +1,7 @@
 
 # Keet Tumke
 
-- Added V1.0 of the API
+- Added V0.1 of the API
 - Added V0.1 of the Webapp
 ## Authors
 
