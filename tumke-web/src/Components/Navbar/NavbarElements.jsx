@@ -1,11 +1,13 @@
 import styled from 'styled-components';
+import { Link } from 'react-router-dom';
 
 export const Nav = styled.nav`
   background: #459cff;
+  height: 80px;
   display: flex;
   justify-content: center;
   align-items: center;
-  position: fixed;
+  position: sticky;
   font-size: 1rem;
   top: 0;
   width: 100%;
@@ -17,23 +19,34 @@ export const Nav = styled.nav`
 `;
 
 export const NavbarContainer = styled.div`
-  display: flex;
-  justify-content: center;
-  height: 80px;
+  position: absolute;
   z-index: 1000;
-  width: 100%;
   padding: 0 24px;
   max-width: 1100px;
 `;
 
-export const NavLogo = styled.a`
+export const NavLogo = styled(Link)`
   color: #fff;
-  justify-self: flex-start;
-  cursor: pointer;
-  font-size: 1.5rem;
+  font-size: 2rem;
   display: flex;
-  align-items: center;
   margin-left: 25px;
   font-weight: bold;
   text-decoration: none;
+`;
+
+export const LinkContainer = styled.div`
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-left: 90%;
+`;
+export const NavLink = styled(Link)`
+  color: #fff;
+  text-decoration: none;
+  font-size: 1.5rem;
+
+  &:hover {
+    color: #bfbfbf;
+    transition: 0.3s all ease-in-out;
+  }
 `;

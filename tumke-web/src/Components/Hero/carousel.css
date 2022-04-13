@@ -1,0 +1,12 @@
+.rec.rec-arrow:disabled {
+  visibility: hidden;
+}
+
+.rec.rec-arrow {
+  margin-right: 3rem;
+  margin-left: 3rem;
+}
+
+.rec.rec-arrow:hover {
+  background-color: #459cff;
+}

@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { Nav, NavbarContainer, NavLogo } from './NavbarElements';
+import { Nav, NavbarContainer, NavLogo, LinkContainer, NavLink } from './NavbarElements';
 
 const Navbar = () => {
   return (
@@ -9,6 +9,9 @@ const Navbar = () => {
         <NavbarContainer>
           <NavLogo to="/">Keet Tumke</NavLogo>
         </NavbarContainer>
+        <LinkContainer>
+          <NavLink to="/admin">Admin</NavLink>
+        </LinkContainer>
       </Nav>
     </>
   );

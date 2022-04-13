@@ -10,3 +10,7 @@ export const Chartdiv = styled.div`
 `;
 
 export const ChartContainer = styled.div``;
+export const ChartSize = styled.div`
+  height: 50vh;
+  width: 50vw;
+`;
