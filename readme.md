@@ -1,7 +1,7 @@
 
 # Keet Tumke
 
-- Added V0.1 of the API
+- Added V0.1.1 of the API
 - Added V0.1 of the Webapp
 ## Authors
 
@@ -26,4 +26,4 @@
 
 
 ---
-<h3 align="center">Powered by <a href="https://www.esie.nl">Esie</a></h3>
+<h3 align="center">🚀 Powered by <a href="https://www.esie.nl">Esie</a></h3>
